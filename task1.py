@@ -6,7 +6,7 @@ while True:
     if name == "Reveal" :
         break
     func = command[1]
-  #  last_func = command[2]
+    #  last_func = command[2]
 
     if name == "InsertSpace":
         message = list(message)
@@ -20,6 +20,8 @@ while True:
             func.reverse()
             message.append(func)
 
-   # if name == "ChangeAll":
+    # if name == "ChangeAll":
 
 print(message)
+
+# Hello, I was here
