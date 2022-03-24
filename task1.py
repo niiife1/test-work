@@ -23,5 +23,3 @@ while True:
     # if name == "ChangeAll":
 
 print(message)
-
-# Hello, I was here
